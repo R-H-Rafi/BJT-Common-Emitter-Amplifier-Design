@@ -143,11 +143,13 @@ Computer Science & Engineering Student
 
 ### Areas of Interest
 
-- Networking
 - Cybersecurity
-- Electronics
-- Embedded Systems
-- Cloud Computing
+- Ethical Hacking
+- Penetration Testing
+- Network Security
+- Routing & Switching
+- Cloud Security
+- Security Operations
 
 ---
 
